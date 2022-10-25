@@ -1,2 +1,3 @@
 # Cards
-memory game
+
+card do flip when click haha
